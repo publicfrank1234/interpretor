@@ -1,4 +1,4 @@
-# Interpreter Proof-of-Concept: Ideaing
+# Interpreter Proof-of-Concept
 
 ## What Are We Building?
 

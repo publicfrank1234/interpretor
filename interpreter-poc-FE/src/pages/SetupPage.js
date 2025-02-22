@@ -37,8 +37,19 @@ const SetupPage = () => {
         Save & Continue
       </button>
 
+      <div className="githublink">
+        <a
+          href="https://github.com/publicfrank1234/interpretor"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="github-button"
+        >
+          View on GitHub
+        </a>
+      </div>
+
       <div style={styles.videoContainer}>
-        <h2>📽️ Demo Video</h2>
+        <h2>Demo Video</h2>
         <iframe
           width="100%"
           height="315"
@@ -72,6 +83,10 @@ const styles = {
     color: "#fff",
     border: "none",
     cursor: "pointer",
+    marginBottom: "20px",
+  },
+  githublink: {
+    marginBottom: "200px",
   },
   videoContainer: {
     marginTop: "20px",
