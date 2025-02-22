@@ -16,11 +16,9 @@
 1. **Conversation Summary:**
    - A detailed summary of the full conversation in English will be provided at the end.
    - Translations can be displayed on-screen in English or both languages, depending on design choices.
-2. **Interrupt Capability (Barge In):**
-   - Doctors can interrupt the interpreter to add more information.
-3. **Command Functionality:**
+2. **Command Functionality:**
    - Doctors can use voice commands like "repeat that" to have the system repeat the previous sentence.
-4. **Intent Detection:**
+3. **Intent Detection:**
    - The system detects and parses specific intents (e.g., schedule a follow-up appointment) along with any associated parameters.
 
 ---
